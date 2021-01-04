@@ -1,0 +1,1 @@
+<p>Hello <?= $channel->username ?></p>
